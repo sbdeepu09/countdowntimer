@@ -6,7 +6,7 @@ const secEl=document.getElementById('sec')
 
 
 
-const newYear ='1 jan 2021'
+const newYear ='1 jan 2022'
 
 function countdown(){
     const newYearDate=new Date(newYear)
